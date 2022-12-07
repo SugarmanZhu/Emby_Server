@@ -56,7 +56,7 @@ Enjoy
 
 #### Step 1
 
-Navigate to the URL https://emby.zhuxiaotan.com or http://emby.zhuxiaotan.com
+Navigate to https://emby.zhuxiaotan.com or http://emby.zhuxiaotan.com
 
 #### Step 2
 
