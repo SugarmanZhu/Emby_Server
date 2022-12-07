@@ -20,7 +20,7 @@ You will have access to view all the contents online but cannot download any con
 
 The username is Guest and there is no password (leave the password field empty).
 
-Note: This is a shared account, everyone using it can see your watch history and other activity data.
+Note: This is a shared account, everyone using it can see your activities.
 
 
 ### Using Emby Client
