@@ -70,7 +70,7 @@ Enjoy
 
 ![image](https://user-images.githubusercontent.com/31754434/206094213-d5e02eaf-9b4c-4c6e-b5d3-19296cbd96c3.png)
 
-Note: Your browser might not be able to play certain file formats, which could lead to problems with the video and audio. It is advised to access via Emby's App instead. You may also try linking your own player (VLC, PotPlayer, IINA, etc.) to your browser to solve the problem.
+Note: Your browser might not be able to play certain file formats, which could lead to problems with the video and audio. It is advised to access via Emby's App instead. You may also try linking your own player (VLC, PotPlayer, IINA, etc.) to your browser to solve the problem. [See 'There is video but no sound' section in FAQ](#there-is-video-but-no-sound).
 
 
 ## FAQ
@@ -91,15 +91,13 @@ The movie and TV programs are indexed and downloaded from public sites (RARBG, E
 The show descriptions and images are downloaded from metadata service providers (TheMovieDb, TheTVDB, The Open Movie Database).
 
 
-
 ### Can I have a persoanl account?
 
 Absolutely, I'll set one up for you. Just send me the username you want and your email address.
+
 
 ### There is video but no sound
 
 This issue may occur when playing MKV videos in browsers. This is due to the fact that the majority of browsers do not natively support MKV files.
 
 Playing the video in a video player will help you solve this problem. You could try the [Open in VLC™ plugin](https://chrome.google.com/webstore/detail/open-in-vlc-media-player/ihpiinojhnfhpdmmacgmpoonphhimkaj?hl=en) on Google Chrome.
-
-
