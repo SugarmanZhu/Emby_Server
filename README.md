@@ -4,23 +4,8 @@ Emby is a media server designed to organize, play, and stream audio and video to
 
 I hosted my Emby server on a NAS. 
 
-Some Docker images used in this project are:
-```
-jxxghp/nas-tools
-nevinee/chinesesubfinder
-linuxserver/qbittorrent
-```
 
 ## Access the Server
-
-
-### Public Account
-
-You will have access to view all the contents online but cannot download any content.
-
-The username is Guest and there is no password (leave the password field empty).
-
-Note: This is a shared account, everyone using it can see your activities.
 
 
 ### Using Emby Client
@@ -52,7 +37,7 @@ Enjoy
 ![image](https://user-images.githubusercontent.com/31754434/206093752-3d4b954c-4cd3-49a5-bd03-ee77b983b12f.png)
 
 
-### Using Browser (NOT RECOMMANDED)
+### Using Browser
 
 #### Step 1
 
@@ -82,13 +67,6 @@ In the Emby Theater app, navigate to App Settings -> Video -> Video output -> Se
 ![image](https://user-images.githubusercontent.com/31754434/206095819-7ba5b06a-8ade-442c-9775-54adbf894808.png)
 
 See https://emby.media/community/index.php?/topic/114059-emby-theater-error/&do=findComment&comment=1206462
-
-
-### What is the source of all the contents?
-
-The movie and TV programs are indexed and downloaded from public sites (RARBG, EZTV, KickAssTorrents). 
-
-The show descriptions and images are downloaded from metadata service providers (TheMovieDb, TheTVDB, The Open Movie Database).
 
 
 ### There is video but no sound
