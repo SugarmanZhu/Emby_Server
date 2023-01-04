@@ -91,11 +91,6 @@ The movie and TV programs are indexed and downloaded from public sites (RARBG, E
 The show descriptions and images are downloaded from metadata service providers (TheMovieDb, TheTVDB, The Open Movie Database).
 
 
-### Can I have a persoanl account?
-
-Absolutely, I'll set one up for you. Just send me the username you want and your email address.
-
-
 ### There is video but no sound
 
 This issue may occur when playing MKV videos in browsers. This is due to the fact that the majority of browsers do not natively support MKV files.
